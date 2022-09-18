@@ -5,6 +5,16 @@ ASP.NET Core
 [![MIT License](https://img.shields.io/github/license/dotnet/aspnetcore?color=%230b0&style=flat-square)](https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt)
 
 
+### Introduction 
+> **Asp.Net Core Web** applications is a console application based on simple logic to understand.
+#### This App Contane.
+- StarUp
+- Simple Url Request
+- Simple Claim
+- Register View
+- Login View 
+- Extensions (Util,Write and ect.)
+
 ASP.NET Core is an open-source and cross-platform framework for building modern cloud based internet connected applications, such as web apps, IoT apps and mobile backends. ASP.NET Core apps run on [.NET](https://dot.net), a free, cross-platform and open-source application runtime. It was architected to provide an optimized development framework for apps that are deployed to the cloud or run on-premises. It consists of modular components with minimal overhead, so you retain flexibility while constructing your solutions. You can develop and run your ASP.NET Core apps cross-platform on Windows, Mac and Linux. [Learn more about ASP.NET Core](https://docs.microsoft.com/aspnet/core/).
 
 ## Get Started
@@ -44,3 +54,4 @@ These are some other repos for related projects:
 ## Code of conduct
 
 See [CODE-OF-CONDUCT](./CODE-OF-CONDUCT.md)
+
